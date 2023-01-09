@@ -1,4 +1,4 @@
-##Simulting Quantum Infinite Square Well and Quantum Harmonic Oscilltor
+## Simulting Quantum Infinite Square Well and Quantum Harmonic Oscilltor
 
 1. We will start off with our knowledge of the solutions (energy eigen-states) of the quantum systems and obtain a visualization of the time-evolution of the probability density.
 
